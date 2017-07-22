@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
+*.bin
+cache.properties.lock
+workspace.xml
+compiler.xml
 
+*.class
+*.jar
 # Log file
 *.log
 

@@ -1,0 +1,5 @@
+rootProject.name = 'better_than_best_effort_simulation'
+include 'app'
+include 'simulation'
+include 'src'
+

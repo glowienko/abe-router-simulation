@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/better_than_best_effort_simulation.iml" filepath="$PROJECT_DIR$/.idea/modules/better_than_best_effort_simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/better_than_best_effort_simulation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/better_than_best_effort_simulation_main.iml" group="better_than_best_effort_simulation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/better_than_best_effort_simulation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/better_than_best_effort_simulation_test.iml" group="better_than_best_effort_simulation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulation/simulation.iml" filepath="$PROJECT_DIR$/.idea/modules/simulation/simulation.iml" group="simulation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulation/simulation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simulation/simulation_main.iml" group="simulation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulation/simulation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simulation/simulation_test.iml" group="simulation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src.iml" group="src" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src_main.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src_main.iml" group="src" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src_test.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src_test.iml" group="src" />
+    </modules>
+  </component>
+</project>
